@@ -8,5 +8,10 @@
 
 - *"Just do it"* - Nike
 
+- *"Inaction breeds doubt and fear. Action breeds confidence and courage. If you want to conquer fear, do not sit home and think about it. Go out and get busy."* - Dale Carnegie
 
-[Update](https://github.com/mohnish/quotes/generated_pages/new)
+
+[Update README](https://github.com/mohnish/quotes/edit/master/README.md)
+
+
+[Update Page](https://github.com/mohnish/quotes/generated_pages/new)
